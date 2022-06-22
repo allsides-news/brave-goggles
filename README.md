@@ -1,4 +1,4 @@
-# Brave Goggles by AllSides
+# Brave Goggles by AllSides.com
 
 * Left (beta)
 * Lean-left (pending)
