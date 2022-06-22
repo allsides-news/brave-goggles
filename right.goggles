@@ -1,7 +1,8 @@
 ! name: Right sources
-! description: Rank results to boost content from right sources.
+! description: Rank results to boost content from right-leaning news sources.
 ! public: true
 ! author: AllSides.com
+! homepage: https://www.allsides.com/
 ! avatar: #DC2A19
 
 $boost=4,site=wnd.com

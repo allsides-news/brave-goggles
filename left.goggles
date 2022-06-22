@@ -1,7 +1,8 @@
 ! name: Left sources
-! description: Rank results to boost content from left sources.
+! description: Rank results to boost content from left-leaning news sources.
 ! public: true
 ! author: AllSides.com
+! homepage: https://www.allsides.com/
 ! avatar: #1F62A6
 
 /section/opinion^$boost=4,site=nytimes.com
