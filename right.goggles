@@ -16,8 +16,6 @@ $boost=4,site=bearingdrift.com
 /r/uncensorednews/$boost=3,site=reddit.com
 /r/libertarian/$boost=3,site=reddit.com
 /r/conservative/$boost=3,site=reddit.com
-/r/The_Donald/$boost=3,site=reddit.com
-/r/Conservative/$boost=3,site=reddit.com
 /public/page/news-opinion-commentary.html^$boost=3,site=online.wsj.com
 /opinion^$boost=3,site=nypost.com
 /insiders^$boost=3,site=newsmax.com
