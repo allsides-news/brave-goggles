@@ -3,7 +3,7 @@
 ! public: true
 ! author: AllSides.com
 ! homepage: https://www.allsides.com/
-! avatar: #1F62A6
+! avatar: #2e64a0
 
 /section/opinion^$boost=4,site=nytimes.com
 $boost=4,site=vox.com
