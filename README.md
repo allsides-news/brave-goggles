@@ -1,10 +1,7 @@
 # Brave Goggles by AllSides.com
 
-* Left (beta)
-* Lean-left (pending)
-* Center (pending)
-* Lean-right (pending)
-* Right (beta)
-* Mixed (pending)
+* Left/Lean-left (beta)
+* Right/Lean-right (beta)
+* Center/Mixed (pending)
 
-_Last updated: Tue, 21 Jun 2022 22:05:05 GMT_
+_Last updated: Thu, 23 Jun 2022 19:40:37 GMT_
