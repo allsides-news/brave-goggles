@@ -14,7 +14,7 @@ $boost=4,site=barrons.com
 $boost=2,site=bbc.com
 /news$boost=2,site=bbc.co.uk
 $boost=2,site=bridgemi.com
-$boost=5,cite=c-span.org
+$boost=5,site=c-span.org
 $boost=2,site=calmatters.org
 $boost=3,site=catholicnews.com
 $boost=3,site=christianheadlines.com
@@ -98,7 +98,7 @@ $boost=3,site=news-leader.com
 $boost=2,site=statnews.com
 /stillwater_gazette/$boost=1,site=hometownsource.com
 /subverse$boost=3,site=minds.com
-/channel/UCLMSv1UJp9sfoHyo-9s6sdw$boost=3,site:youtube.com
+/channel/UCLMSv1UJp9sfoHyo-9s6sdw$boost=3,site=youtube.com
 $boost=5,site=readtangle.com
 $boost=2,site=techxplore.com
 $boost=2,site=techcrunch.com
