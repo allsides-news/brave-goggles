@@ -8,6 +8,7 @@
 /section/opinion^$boost=4,site=nytimes.com
 $boost=4,site=vox.com
 $boost=4,site=thedailybeast.com
+$boost=4,site=taz.de
 $boost=4,site=mediamatters.org
 $boost=4,site=huffpost.com
 $boost=4,site=cnn.com
@@ -25,7 +26,9 @@ $boost=3,site=usatoday.com
 $boost=3,site=salon.com
 $boost=3,site=refinery29.com
 $boost=3,site=nytimes.com
+$boost=3,site=nd-aktuell.de
 $boost=3,site=msnbc.com
+$boost=4,site=fr.de
 $boost=3,site=buzzfeednews.com
 $boost=3,site=alternet.org
 $boost=3,site=abcnews.go.com
@@ -65,6 +68,7 @@ $boost=2,site=slate.com
 $boost=2,site=sfchronicle.com
 $boost=2,site=scientificamerican.com
 $boost=2,site=sacbee.com
+$boost=2,site=redaktion-bahamas.org
 $boost=2,site=psmag.com
 $boost=2,site=propublica.org
 $boost=2,site=progressivevoicesofiowa.com
@@ -94,6 +98,7 @@ $boost=2,site=mediaite.com
 $boost=2,site=masslive.com
 $boost=2,site=latimes.com
 $boost=2,site=lasvegassun.com
+$boost=2,site=jungle.world
 $boost=2,site=jezebel.com
 $boost=2,site=jacobinmag.com
 $boost=2,site=insider.com
@@ -106,6 +111,7 @@ $boost=2,site=hbswk.hbs.edu
 $boost=2,site=grist.org
 $boost=2,site=gq.com
 $boost=2,site=gizmodo.com
+$boost=2,site=freitag.de
 $boost=2,site=freep.com
 $boost=2,site=fas.org
 $boost=2,site=fair.org
@@ -137,6 +143,7 @@ $boost=2,site=bloomberg.com
 $boost=2,site=blockclubchicago.org
 $boost=2,site=blackagendareport.com
 $boost=2,site=bgdailynews.com
+$boost=2,site=belltower.news
 $boost=2,site=arkansasonline.com
 $boost=2,site=americanprogress.org
 $boost=2,site=aljazeera.com
